@@ -1,4 +1,5 @@
 📦 Amazon Brazil – E-commerce Data Analysis (SQL)
+
 🔍 Project Overview
 An end-to-end SQL-based analysis of Amazon Brazil’s e-commerce dataset, exploring sales trends, customer behavior, payment preferences, and product category performance.
 The project focuses on extracting actionable insights from transactional data using structured queries and relational analysis.
@@ -8,12 +9,14 @@ Understand customer purchase behavior and identify top-performing customer segme
 Analyze sales distribution across product categories, payment methods, and order values.
 Evaluate monthly and seasonal sales trends to identify peak periods.
 Derive insights on customer loyalty and repeat purchase patterns using SQL queries.
+
 📈 Key Insights & Findings
 Payment Method Analysis: Credit card payments dominate with the highest average transaction value.
 Category Trends: A small number of product categories contribute disproportionately to total revenue.
 Regional Patterns: Certain states show higher order density and faster delivery times.
 Customer Retention: Loyal customers (5+ orders) generate significantly higher lifetime value compared to first-time buyers.
 Seasonality: Peak sales occur during local festive seasons, reflecting campaign-driven spikes.
+
 💡 Analysis Breakdown
 1. Customer Segmentation
 Grouped customers based on total orders placed to classify into New, Regular, and Loyal segments.
